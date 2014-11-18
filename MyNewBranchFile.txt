@@ -1,1 +1,1 @@
-This is my new file in branch. I have edited.
+This is my new file in branch. I have edited in master.
